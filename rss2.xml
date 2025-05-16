@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>殊晏的小窝</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>幸福靠自己</description>
+    <pubDate>Fri, 16 May 2025 10:01:34 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title></title>
+      <link>http://example.com/2025/05/16/hello/</link>
+      <guid>http://example.com/2025/05/16/hello/</guid>
+      <pubDate>Fri, 16 May 2025 10:01:19 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;今天真的不是很开心的呢&quot;&gt;&lt;a href=&quot;#今天真的不是很开心的呢&quot; class=&quot;headerlink&quot; title=&quot;今天真的不是很开心的呢&quot;&gt;&lt;/a&gt;今天真的不是很开心的呢&lt;/h1&gt;</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="今天真的不是很开心的呢"><a href="#今天真的不是很开心的呢" class="headerlink" title="今天真的不是很开心的呢"></a>今天真的不是很开心的呢</h1>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2025/05/16/hello/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
